@@ -61,10 +61,10 @@
 			<ul id="menu">
 				<li class="menu_active nav1"><a href="#page_Home">know-how </a></li>
 				<li class="nav2"><a href="#page_News">Currículo </a></li>
-				<li class="nav3"><a href="#page_Services">Services </a></li>
+				<li class="nav3"><a href="#page_Services">Projetos </a></li>
 				<li class="nav4"><a href="#page_Products">Products </a></li>
 				<li class="nav5"><a href="#page_FAQ">FAQ </a></li>
-				<li class="nav6"><a href="#page_Contacts">Contacts </a></li>
+				<li class="nav6"><a href="#page_Contacts">Contatos </a></li>
 			</ul>
 		</nav>
 <!-- content -->
@@ -83,7 +83,7 @@
 								<h2><strong> How-To </strong><strong> CentOS </strong></h2>
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.</p>
 								<div class="center">
-									<a href="#" class="button1">Read More</a>
+									<a href="#" class="button1">Veja aqui</a>
 									<div class="button1_shadow"></div>
 								</div>
 							</div>
@@ -96,7 +96,7 @@
 								<h2><strong> How-To </strong> <strong> Ubuntu </strong></h2>
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.</p>
 								<div class="center">
-									<a href="#" class="button1">Read More</a>
+									<a href="#" class="button1">Veja aqui</a>
 									<div class="button1_shadow"></div>
 								</div>
 							</div>
@@ -109,7 +109,7 @@
 								<h2><strong> Apostilas </strong><strong> Video-Aulas </strong></h2>
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.</p>
 								<div class="center">
-									<a href="#" class="button1">Read More</a>
+									<a href="#" class="button1">Veja aqui</a>
 									<div class="button1_shadow"></div>
 								</div>
 							</div>
@@ -119,7 +119,7 @@
 				</div>
 			</div>
 			<div id="page_News">
-				<h2>Latest News &amp; Events</h2>
+				<h2>Mini Currículo</h2>
 				<div class="box1_bot">
 					<div class="box1_left">
 						<div class="box1_right">
@@ -127,7 +127,7 @@
 								<div class="pad">
 									<div class="wrapper pad_bot2">
 										<figure class="left marg_right1"><img src="images/minha-foto.jpg" alt=""></figure>
-										<p class="pad_bot1 pad_top1"><strong>Mini Currículo</strong></p>
+										<p class="pad_bot1 pad_top1"><strong>Resumo da minha vida profissional</strong></p>
 										<p>Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
 Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.  </p>
 									</div>
@@ -139,7 +139,7 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 				</div>
 			</div>
 			<div id="page_Services">
-				<h2>Our Services</h2>
+				<h2>Alguns Projetos</h2>
 				<div class="wrapper">
 					<div class="col2">
 						<div class="box1_bot">
@@ -148,8 +148,8 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 									<div class="box1">
 										<div class="pad">
 											<div class="wrapper">
-												<figure class="left marg_right2"><a href="#"><img src="images/page2_img1.png" alt=""></a></figure>
-												<h3><a href="#">Management</a></h3>
+												<figure class="left marg_right2"><a href="#"><img src="images/projetos-openstack.png" width=100 height=100></a></figure>
+												<h3><a href="#">OpenStack</a></h3>
 												<p>Nemo enim ipsam volup tate vuoluptas aspernatur aut odit aut fugit, sed quia consequuntur magni dolores voluptatem.</p>
 											</div>
 										</div>
@@ -165,8 +165,8 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 									<div class="box1">
 										<div class="pad">
 											<div class="wrapper">
-												<figure class="left marg_right2"><a href="#"><img src="images/page2_img3.png" alt=""></a></figure>
-												<h3><a href="#">Planning</a></h3>
+												<figure class="left marg_right2"><a href="#"><img src="images/projetos-puppet.jpg" width=100 height=100></a></figure>
+												<h3><a href="#">Puppet</a></h3>
 												<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inven tore veritatis.</p>
 											</div>
 										</div>
@@ -184,8 +184,8 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 									<div class="box1">
 										<div class="pad">
 											<div class="wrapper">
-												<figure class="left marg_right2"><a href="#"><img src="images/page2_img2.png" alt=""></a></figure>
-												<h3><a href="#">Banking</a></h3>
+												<figure class="left marg_right2"><a href="#"><img src="images/projetos-zimbra.jpg" width=100 height=100></a></figure>
+												<h3><a href="#">Zimbra</a></h3>
 												<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inven tore veritatis.</p>
 											</div>
 										</div>
@@ -202,7 +202,7 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 										<div class="pad">
 											<div class="wrapper">
 												<figure class="left marg_right2"><a href="#"><img src="images/page2_img4.png" alt=""></a></figure>
-												<h3><a href="#">Tax Services</a></h3>
+												<h3><a href="#">Bacula</a></h3>
 												<p>Nemo enim ipsam volup tate vuoluptas aspernatur aut odit aut fugit, sed quia consequuntur magni dolores voluptatem.</p>
 											</div>
 										</div>
@@ -312,7 +312,7 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 				</div>
 			</div>
 			<div id="page_Contacts">
-				<h2>Contacts</h2>
+				<h2>Contatos</h2>
 				<div class="wrapper">
 					<div class="col3">
 						<div class="box1_bot">
@@ -322,12 +322,11 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 										<div class="pad">
 											<form id="ContactForm">
 												<div>
-													<div class="wrapper"><span>Your Name:</span><input type="text" class="input" ></div>
-													<div class="wrapper"><span>Your E-mail:</span><input type="text" class="input" ></div>
-													<div class="wrapper"><span>Your City:</span><input type="text" class="input" ></div>
-													<div class="textarea_box"><span>Your Message:</span><textarea name="textarea" cols="1" rows="1"></textarea></div>
-													<a href="#" class="button" onClick="document.getElementById('ContactForm').submit()"><span class="shadow"></span>Send</a>
-													<a href="#" class="button" onClick="document.getElementById('ContactForm').reset()"><span class="shadow"></span>Clear</a>
+													<div class="wrapper"><span>Seu Nome:</span><input type="text" class="input" ></div>
+													<div class="wrapper"><span>Seu Email:</span><input type="text" class="input" ></div>
+													<div class="textarea_box"><span>Uma Mensagem:</span><textarea name="textarea" cols="1" rows="1"></textarea></div>
+													<a href="#" class="button" onClick="document.getElementById('ContactForm').submit()"><span class="shadow"></span>Enviar</a>
+													<a href="#" class="button" onClick="document.getElementById('ContactForm').reset()"><span class="shadow"></span>Limpar</a>
 												</div>
 											</form>
 										</div>
@@ -342,11 +341,11 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 								<div class="box1_right">
 									<div class="box1">
 										<div class="pad">
-											<p><span class="right marg_right2">USA</span>Country:<br>
-											<span class="right marg_right2">California</span>State:<br>
-											<span class="right marg_right2">San Diego</span>City:<br>
-											<span class="right marg_right2"><a href="mailto:">lilly@mail.com</a></span>Email:<br></p>
-											<p class="pad_bot1"><strong>Miscellaneous Info:</strong></p>
+											<p><span class="right marg_right2">Brasil</span>País:<br>
+											<span class="right marg_right2">São Paulo</span>Estado:<br>
+											<span class="right marg_right2">São Paulo</span>Cidade:<br>
+											<span class="right marg_right3"><a href="mailto:">adm@victorti.com</a></span>Email:<br></p>
+											<p class="pad_bot1"><strong>Algumas Informações:</strong></p>
 											At vero eos et accusoaus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.
 										</div>
 									</div>
