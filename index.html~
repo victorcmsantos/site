@@ -64,7 +64,7 @@
 				<li class="nav3"><a href="#page_Services">Projetos </a></li>
 		<!--		<li class="nav4"><a href="#page_Products">Products </a></li>
 		 		<li class="nav5"><a href="#page_FAQ">FAQ </a></li> -->
-				<li class="nav6"><a href="#page_Contacts">Contatos </a></li>
+				<li class="nav4"><a href="#page_Contacts">Contatos </a></li>
 			</ul>
 		</nav>
 <!-- content -->
@@ -213,6 +213,9 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 					</div>
 				</div>
 			</div>
+
+<!-- ##############################
+
 			<div id="page_Products">
 				<h2>Products</h2>
 				<div class="wrapper">
@@ -291,7 +294,7 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 				</div>
 			</div>
 
-<!-- valid html comment
+
 			<div id="page_FAQ">
 				<h2>Frequently Asked Questions</h2>
 				<div class="box1_bot">
