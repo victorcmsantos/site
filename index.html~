@@ -62,8 +62,8 @@
 				<li class="menu_active nav1"><a href="#page_Home">know-how </a></li>
 				<li class="nav2"><a href="#page_News">Currículo </a></li>
 				<li class="nav3"><a href="#page_Services">Projetos </a></li>
-				<li class="nav4"><a href="#page_Products">Products </a></li>
-				<li class="nav5"><a href="#page_FAQ">FAQ </a></li>
+		<!--		<li class="nav4"><a href="#page_Products">Products </a></li>
+		 		<li class="nav5"><a href="#page_FAQ">FAQ </a></li> -->
 				<li class="nav6"><a href="#page_Contacts">Contatos </a></li>
 			</ul>
 		</nav>
@@ -201,7 +201,7 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 									<div class="box1">
 										<div class="pad">
 											<div class="wrapper">
-												<figure class="left marg_right2"><a href="#"><img src="images/page2_img4.png" alt=""></a></figure>
+												<figure class="left marg_right2"><a href="#"><img src="images/projetos-bacula.png" width=100 height=100></a></figure>
 												<h3><a href="#">Bacula</a></h3>
 												<p>Nemo enim ipsam volup tate vuoluptas aspernatur aut odit aut fugit, sed quia consequuntur magni dolores voluptatem.</p>
 											</div>
@@ -290,6 +290,8 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 					</div>
 				</div>
 			</div>
+
+<!-- valid html comment
 			<div id="page_FAQ">
 				<h2>Frequently Asked Questions</h2>
 				<div class="box1_bot">
@@ -311,6 +313,11 @@ Dit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
 					</div>
 				</div>
 			</div>
+ -->
+
+
+
+
 			<div id="page_Contacts">
 				<h2>Contatos</h2>
 				<div class="wrapper">
